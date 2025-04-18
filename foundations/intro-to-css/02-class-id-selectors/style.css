@@ -2,3 +2,12 @@
     background-color: #FFA8B5;
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
+
+#blue {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.size, #green {
+    font-size: 24px;
+}
