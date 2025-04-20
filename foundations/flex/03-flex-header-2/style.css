@@ -53,3 +53,7 @@ ul {
 .right-links {
   display: flex;
 }
+
+.right-links {
+  margin-left: auto;
+}
