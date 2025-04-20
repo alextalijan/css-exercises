@@ -49,14 +49,15 @@ ul {
   list-style-type: none;
   display: flex;
   padding-left: 0px;
+  gap: 15px;
 }
 
 .left-links,
 .right-links {
   display: flex;
+  gap: 15px;
 }
 
 .right-links {
   margin: 10px 10px 10px auto;
-  gap: 15px;
 }
