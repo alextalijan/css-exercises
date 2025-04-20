@@ -57,12 +57,14 @@ ul {
 .right-links {
   display: flex;
   gap: 16px;
+  align-items: center;
 }
 
 .right-links {
-  margin: 10px 10px 10px auto;
+  margin-left: auto;
 }
 
 .left-links {
   margin-left: 10px;
+
 }
