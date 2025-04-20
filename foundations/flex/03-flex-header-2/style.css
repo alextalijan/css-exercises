@@ -48,6 +48,7 @@ a {
 ul {
   list-style-type: none;
   display: flex;
+  padding-left: 0px;
 }
 
 .left-links,
