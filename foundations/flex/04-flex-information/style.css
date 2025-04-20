@@ -26,8 +26,15 @@ img {
   background: #eee;
 }
 
-.container {
+.container,
+.section {
   display: flex;
+}
+
+.container {
   padding: 20px;
-  justify-content: center;
+}
+
+.section {
+  flex-direction: column;
 }
