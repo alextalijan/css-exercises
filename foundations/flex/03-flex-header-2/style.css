@@ -37,7 +37,6 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
-  align-self: center;
 }
 
 a {
@@ -62,9 +61,4 @@ ul {
 
 .right-links {
   margin-left: auto;
-}
-
-.left-links {
-  margin-left: 10px;
-
 }
