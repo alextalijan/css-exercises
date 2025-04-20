@@ -25,3 +25,9 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.container {
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+}
