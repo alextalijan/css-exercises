@@ -34,7 +34,7 @@ img {
 .container {
   margin: 35px;
   gap: 30px;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .section {
