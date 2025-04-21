@@ -71,7 +71,7 @@ button.cancel {
 }
 
 .modal,
-.section
+.section,
 .subsection {
   display: flex;
 }
