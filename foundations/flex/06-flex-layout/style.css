@@ -30,6 +30,13 @@ input {
 .footer,
 .footer > * {
   display: flex;
+  list-style-type: none;
+}
+
+.header a,
+.footer a {
+  text-decoration: none;
+  color: gray;
 }
 
 .left-links {
