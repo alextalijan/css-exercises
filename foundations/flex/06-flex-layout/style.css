@@ -32,6 +32,7 @@ input {
   display: flex;
   list-style-type: none;
   gap: 15px;
+  padding-left: 0px;
 }
 
 .header a,
