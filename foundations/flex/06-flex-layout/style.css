@@ -49,3 +49,8 @@ input {
 .left-links {
   margin-right: auto;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
