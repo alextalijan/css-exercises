@@ -58,3 +58,10 @@ input {
   gap: 10px;
   margin-top: 150px;
 }
+
+.footer {
+  position: fixed;
+  bottom: 0px;
+  width: 99%;
+  background-color: lightgray;
+}
