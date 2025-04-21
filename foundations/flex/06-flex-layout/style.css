@@ -41,6 +41,11 @@ input {
   color: gray;
 }
 
+.header,
+.footer {
+  margin: 0px 10px;
+}
+
 .left-links {
   margin-right: auto;
 }
