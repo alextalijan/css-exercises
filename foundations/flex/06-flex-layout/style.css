@@ -26,6 +26,12 @@ input {
 }
 
 .header,
-.header > * {
+.header > *,
+.footer,
+.footer > * {
   display: flex;
+}
+
+.left-links {
+  margin-right: auto;
 }
