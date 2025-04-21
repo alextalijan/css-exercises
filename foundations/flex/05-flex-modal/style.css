@@ -79,3 +79,9 @@ button.cancel {
 .section {
   flex-direction: column;
 }
+
+.header {
+  font-weight: bold;
+  margin-right: auto;
+  font-size: 20px;
+}
