@@ -79,6 +79,7 @@ button.cancel {
 .section {
   flex-direction: column;
   gap: 10px;
+  justify-content: center;
 }
 
 .header {
