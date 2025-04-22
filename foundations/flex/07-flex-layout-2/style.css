@@ -28,10 +28,19 @@ body {
   border-radius: 4px;
 }
 
-.page {
+.page,
+.footer {
   display: flex;
+}
+
+.page {
   flex-direction: column;
   height: 100vh;
+}
+
+.footer {
+  justify-content: center;
+  align-items: center;
 }
 
 .section {
