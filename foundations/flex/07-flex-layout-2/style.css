@@ -45,6 +45,7 @@ body {
 .footer,
 .header,
 .sidebar ul,
+.section,
 .subsection {
   display: flex;
 }
@@ -77,5 +78,4 @@ body {
 
 .section {
   flex-grow: 1;
-  display: flex;
 }
