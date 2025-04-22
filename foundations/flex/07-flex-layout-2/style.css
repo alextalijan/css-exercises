@@ -9,6 +9,10 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  justify-content: start;
+  font-weight: 900;
+  font-size: 30px;
+  padding-left: 10px;
 }
 
 .footer {
@@ -68,13 +72,6 @@ body {
 
 .footer {
   justify-content: center;
-}
-
-.header {
-  justify-content: start;
-  font-weight: 900;
-  font-size: 30px;
-  padding-left: 10px;
 }
 
 .section {
