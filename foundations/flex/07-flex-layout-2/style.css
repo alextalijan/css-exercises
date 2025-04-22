@@ -79,3 +79,11 @@ body {
 .section {
   flex-grow: 1;
 }
+
+.subsection {
+  flex-wrap: wrap;
+}
+
+.subsection div {
+  flex: 1;
+}
