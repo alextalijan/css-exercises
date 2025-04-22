@@ -82,6 +82,8 @@ body {
 
 .subsection {
   flex-wrap: wrap;
+  padding: 20px;
+  gap: 20px;
 }
 
 .subsection div {
