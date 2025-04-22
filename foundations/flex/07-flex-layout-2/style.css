@@ -29,7 +29,8 @@ body {
 }
 
 .page,
-.footer {
+.footer,
+.header {
   display: flex;
 }
 
@@ -38,9 +39,17 @@ body {
   height: 100vh;
 }
 
+.footer,
+.header {
+  align-items: center;
+}
+
 .footer {
   justify-content: center;
-  align-items: center;
+}
+
+.header {
+  justify-content: start;
 }
 
 .section {
