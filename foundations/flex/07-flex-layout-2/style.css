@@ -60,6 +60,7 @@ body {
 .footer,
 .header {
   align-items: center;
+  flex-shrink: 0;
 }
 
 .footer {
