@@ -50,6 +50,8 @@ body {
 
 .header {
   justify-content: start;
+  font-weight: 900;
+  font-size: 30px;
 }
 
 .section {
