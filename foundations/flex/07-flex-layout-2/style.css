@@ -88,4 +88,5 @@ body {
 
 .subsection div {
   flex: 1;
+  flex-basis: 30%;
 }
