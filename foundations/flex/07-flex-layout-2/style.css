@@ -86,7 +86,7 @@ body {
   gap: 30px;
 }
 
-.subsection div {
+.card {
   flex: 1;
   flex-basis: 30%;
 }
