@@ -44,7 +44,8 @@ body {
 .page,
 .footer,
 .header,
-.sidebar ul {
+.sidebar ul,
+.subsection {
   display: flex;
 }
 
