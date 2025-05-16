@@ -80,6 +80,8 @@
 .nav {
   background-color: #C50208;
   grid-area: 2 / 2 / span 1 / -1;
+  display: grid;
+  align-items: center;
 }
 
 .nav ul li {
@@ -127,6 +129,8 @@
 .footer {
   background-color: #393f4d;
   grid-area: -2 / 1 / -1 / -1;
+  display: grid;
+  align-items: center;
 }
 
 .footer p {
