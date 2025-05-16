@@ -9,6 +9,7 @@
   grid-template-columns: 1fr 4fr;
   grid-template-rows: 2fr 1fr 8fr 1fr;
   height: 100vh;
+  gap: 3px;
 }
 
 .container div {
@@ -49,6 +50,15 @@
 .sidebar {
   background-color: #C50208;
   grid-area: 2 / 1 / -2 / span 1;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(4, 1fr);
+  gap: 50px;
+}
+
+.sidebar > * {
+  display: grid;
+  place-content: center;
 }
 
 .sidebar .photo {
